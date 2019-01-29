@@ -8,7 +8,7 @@
 * My name is Ethan Lyons and I am 18 years old
 
 
-## Quantitative Accomplishments Ethan Lyons
+##Quantitative Accomplishments Ethan Lyons
 * I have worked two summer jobs.
 * It took me 5 years to complete high school despite setbacks I finished successfully.
 * I have traveled to 6 states.
