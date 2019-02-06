@@ -6,6 +6,7 @@ Last Edited 2/5/2019, Career Buddy: Micheal
 
 * [LinkedIn](https://www.linkedin.com/in/ethan-lyons-42999416a)
 * [GitHub](https://github.com/EthanLyons)
+* [Resume] (https://docs.google.com/document/d/1IsaLiETDIFALL9vSXNE1h3GwGtl5CvKSmnCl1z8ecEE/edit?usp=sharing)
 
 * My name is Ethan Lyons and I am 18 years old
 
@@ -18,6 +19,7 @@ Last Edited 2/5/2019, Career Buddy: Micheal
 20% Auditory
 
 20% Tactile
+
 
 
 ### Quantitative Accomplishments Ethan Lyons
@@ -67,4 +69,15 @@ Are you in the advertising business. Here’s my contact info lets meet up somet
  
  This app is in fact useful on it's own. I would imagine I am not the only one
  who is in need of a categorization of often visited websites.
-  
+ 
+
+
+
+
+### Week 1 reflection
+
+It has been difficult to adjust to the schedule so far. We have been introduced to many new concepts and are moving quickly.
+The coding bootcamp is a promising. 
+
+
+### 
