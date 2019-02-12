@@ -81,3 +81,22 @@ The coding bootcamp is a promising.
 
 
 ### 
+
+
+
+
+
+
+### Email #1
+
+Route 66 Diner
+
+Dear associates of Route 66 Diner, I have recently viewed your online website.
+ I am happy to say that my skills and expertise could revitalise your online presence with front end (user experience) and back end (Functionality) 
+
+
+DSG art gallery
+https://www.visitalbuquerque.org/plugins/crm/count/?type=server&key=4_172&val=5e48a1701650c96b7ad497b7f97a8952b0240dbb7d4b274fe59c9ca8b99569c5af9bced81a2dafc1ddb8b3ac24ce958ef7d652
+
+Dear associates of DSG art Gallery, I have recently reviewed your online precense. I am happy to say that my expertise could greatly assist you.
+Your user experience has room for improvement and we could even develop you an android app.
