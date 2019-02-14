@@ -77,10 +77,24 @@ Are you in the advertising business. Here’s my contact info lets meet up somet
 ### Week 1 reflection
 
 It has been difficult to adjust to the schedule so far. We have been introduced to many new concepts and are moving quickly.
-The coding bootcamp is a promising. 
+The coding bootcamp is a promising. Most difficult part is adjusting to the schedule.
 
 
-### 
+### Week 2 reflection
+
+Things are getting easier and I am grasping concepts more appropriately. I am starting to enjoy learning and the other students have been helpful as well as instructors. Still struggling with 
+Adjusting to the schedule, as I am not sleeping enough. We are starting to learn more about object oriented programming.
+
+### Week 3 reflection
+
+I am trying my hardest to learn this week as we are grasping newer concepts and starting to focus more on android programming which has been fun. I can't really seem to find the prodev
+instructions easily, that bothers me. 5 or 6 other students seem to have the same issue. This week focused on concepts such as changing the orientation and keeping its data. Overall a good
+week with a lot accomplished.
+
+### Week 4 reflection
+
+Week four has definitely been the hardest. We have been doing alot of object oriented programming and have been working hard nonstop since monday. We've had some fun with pro-dev intermittently
+and that has been a great blessing. I feel as if I am falling behind on some concepts and will be needing to ask for help to catch up on those.
 
 
 
