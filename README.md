@@ -4,8 +4,8 @@ Last Edited 2/5/2019, Career Buddy: Micheal
 
 ## Links
 
-* [LinkedIn](https://www.linkedin.com/in/ethan-lyons-42999416a)
-* [GitHub](https://github.com/EthanLyons)
+* [LinkedIn] (https://www.linkedin.com/in/ethan-lyons-42999416a)
+* [GitHub] (https://github.com/EthanLyons)
 * [Resume] (https://docs.google.com/document/d/1IsaLiETDIFALL9vSXNE1h3GwGtl5CvKSmnCl1z8ecEE/edit?usp=sharing)
 
 * My name is Ethan Lyons and I am 18 years old
@@ -104,6 +104,7 @@ and that has been a great blessing. I feel as if I am falling behind on some con
 ### Email #1
 
 Route 66 Diner
+https://66diner.com/
 
 Dear associates of Route 66 Diner, I have recently viewed your online website.
  I am happy to say that my skills and expertise could revitalise your online presence with front end (user experience) and back end (Functionality) 
